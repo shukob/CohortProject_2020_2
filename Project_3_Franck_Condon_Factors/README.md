@@ -23,6 +23,7 @@
 ## Further Challenges:
 
 - Calculate FCF by Loop Hafnian ([Notebook](Challenge1.ipynb))
+- Calculate FCF of water molecule by Hermite polynomial. ([Notebook](Challenge2.ipynb))
 - Discussion of 3 methods to calculate FCF ([Markdown](Challenge3.md))
 - Discussion of licenses ([Markdown](Challenge4.md))
 
